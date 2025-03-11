@@ -1,4 +1,4 @@
-[![MasterHead]()](Irfan%20Khan/Downloads/Blue%20and%20White%20Edgy%20Gaming%20Youtube%20Banner.jpg)
+[![MasterHead](https://raw.githubusercontent.com/Salman7292/Salman7292/main/Screenshot%202024-07-19%20001510.png)](https://your-link-here)
 
 <h1 align="center">
   <a href="#">
