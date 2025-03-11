@@ -35,9 +35,9 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mujeeb-ur-rahman-525041319/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045527782980)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engr_mujeeb.akbar/)
+[![UPwork Badge](https://img.shields.io/badge/Upwork-purple?style=for-the-badge&logo=UPwork&logoColor=white)](https://www.upwork.com/freelancers/~0105588d02c9eab148)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
 
