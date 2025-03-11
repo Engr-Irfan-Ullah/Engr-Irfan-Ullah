@@ -1,4 +1,4 @@
-[![MasterHead](Irfan%20Khan/Downloads/Blue%20and%20White%20Edgy%20Gaming%20Youtube%20Banner.jpg)](https://your-link-here)
+[![MasterHead]()](Irfan%20Khan/Downloads/Blue%20and%20White%20Edgy%20Gaming%20Youtube%20Banner.jpg)
 
 <h1 align="center">
   <a href="#">
