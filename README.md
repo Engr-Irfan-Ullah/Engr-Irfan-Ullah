@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
-<h3 align="center">A passionate Software Engineer Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Engr-Irfan-Ullah&label=Profile%20views&color=0e75b6&style=flat" alt="Engr-Irfan-Ullah" /> </p>
 
@@ -36,7 +36,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 <br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mujeeb-ur-rahman-525041319/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021850368747)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045527782980)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engr_mujeeb.akbar/)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
