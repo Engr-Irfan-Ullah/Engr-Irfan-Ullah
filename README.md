@@ -1,4 +1,4 @@
-[![MasterHead]()](https://your-link-here)
+[![MasterHead](https://raw.githubusercontent.com/Engr-Irfan-Ullah/Engr-Irfan-Ullah/refs/heads/main/Gite%20Hab%20Acount%20IrfanUllah.jpg)](https://your-link-here)
 
 <h1 align="center">
   <a href="#">
@@ -37,7 +37,7 @@ Join me on The following Platforms, where I share insights, victories, and even 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-ullah-497211312/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045527782980)
-[![UPwork Badge](https://img.shields.io/badge/Upwork-purple?style=for-the-badge&logo=UPwork&logoColor=white)](https://www.upwork.com/freelancers/~0105588d02c9eab148)
+[![UPwork Badge](https://img.shields.io/badge/Upwork-blue?style=for-the-badge&logo=UPwork&logoColor=white)](https://www.upwork.com/freelancers/~0105588d02c9eab148)
 [![whatsapp Badge](https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/x5qnaw)
 
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(216,82,82,1) 13%, rgba(237,242,6,1) 57%);" />
