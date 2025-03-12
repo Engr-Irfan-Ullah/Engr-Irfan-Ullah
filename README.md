@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Irfan Ullah!;Great+to+Have+You+Here!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Irfan+Ullah!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
 
